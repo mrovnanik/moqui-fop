@@ -44,6 +44,11 @@ the location of this file.
       </filterList>
 
       <fonts>
+								<!-- specific font mapping -->
+        <font kerning="yes" embed-url="component/moqui-fop/font/OpenSans-Regular.ttf" embedding-mode="subset">
+          <font-triplet name="OpenSans" style="normal" weight="normal"/>
+        </font>
+
         <!-- embedded fonts -->
         <!--
         This information must exactly match the font specified
