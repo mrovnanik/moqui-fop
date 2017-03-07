@@ -49,6 +49,10 @@ the location of this file.
           <font-triplet name="OpenSans" style="normal" weight="normal"/>
         </font>
 
+								<font kerning="yes" embed-url="component/moqui-fop/font/OpenSans-Bold.ttf" embedding-mode="subset">
+										<font-triplet name="OpenSans" style="normal" weight="bold"/>
+								</font>
+
         <!-- embedded fonts -->
         <!--
         This information must exactly match the font specified
